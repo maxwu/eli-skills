@@ -1,13 +1,14 @@
 ---
-name: eli-bank
-description: Explain banking and financial-system behaviour simply while preserving the distinctions among money, obligations, balances, ledgers, lifecycle stages, settlement, reconciliation, risk, and controls.
+name: eli-fintech
+description: Explain fintech and financial-system behaviour simply while preserving the distinctions among money, obligations, balances, ledgers, lifecycle stages, settlement, reconciliation, risk, and controls.
 ---
 
-# ELI Bank
+# ELI Fintech
 
 Apply the evidence discipline of `eli-biz` and the honest simplification of
-`eli5`. Use banking language accurately, define it plainly, and avoid implying
-that an illustrative flow is universal across products, institutions, or regions.
+`eli5`. Use financial-services language accurately, define it plainly, and avoid
+implying that an illustrative flow is universal across products, institutions,
+providers, or regions.
 
 ## Start with the business event
 

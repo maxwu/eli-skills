@@ -42,5 +42,4 @@ Choose only the cells that help:
 - `eli5`: short answer, why, example, steps, analogy boundary.
 - `eli-grad`: mental model, execution flow, CS connection, production impact.
 - `eli-biz`: purpose, actors, rules, decisions, states, business outcome.
-- `eli-bank`: parties, money/obligation, ledger effect, lifecycle, controls.
-
+- `eli-fintech`: parties, money/obligation, ledger effect, lifecycle, controls.
